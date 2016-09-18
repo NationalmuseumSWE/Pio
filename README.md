@@ -1,2 +1,4 @@
-# Pio
-Artist portraits in the collection of Nicola Pio
+# Artist portraits from the collection of Nicola Pio
+ 
+Nicola Pio, born around 1677 and dead after 1733, was a collector and connoisseur based in Rome. In 1724, he finished a manuscript containing biographies of 225 artists, most of them his contemporaries but also artists of the preceding centuries. The manuscript was not printed during Pio’s lifetime. It was published for the first time in 1977. Each biography was accompanied by a drawn portrait. The images of contemporary artists were almost all self-portraits, while Nicola Pio commissioned portraits of Renaissance and Baroque artists based on older sources. 149 of the portraits belong to the Nationalmuseum in Stockholm, while around ten have survived in other collections.
+Nationalmuseum Sweden here provides the LIDO xml of the collection data in our collection database. The highres images will be available as iiif-resource soon. 
